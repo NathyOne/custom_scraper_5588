@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.venv/
+venv/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Scrapy
+.scrapy/
+*.log
+
+# Local tooling
+.codex/
+
+# Outputs
+output/
